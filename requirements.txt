@@ -1,0 +1,11 @@
+python==3.9.19
+numpy<2.0
+pandas
+matplotlib
+geopy
+shapely
+tqdm
+scikit-image
+tesorflow<2.11
+opencv
+pillow
