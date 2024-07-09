@@ -1,11 +1,11 @@
-python==3.9.19
+python==3.9
+tesorflow<2.11
 numpy<2.0
 pandas
 matplotlib
 geopy
 shapely
 tqdm
-scikit-image
-tesorflow<2.11
+scikit-learn
 opencv
-pillow
+pillow==10.3.0
